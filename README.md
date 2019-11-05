@@ -10,7 +10,7 @@
 
 - Code：源代码文件[ZUC_cryptanalysis.py](https://github.com/hjzin/ZUC_Cryptanalysis/blob/master/Code/ZUC_cryptanalysis.py)
 - output目录是输出的差分分析表和线性逼近表，共有四个excel文件
-- [ZUC密码实验.pdf](https://github.com/hjzin/ZUC_Cryptanalysis/blob/master/ZUC密码实验.pdf) ：实验思路和结果文档
+- [ZUC密码分析实验.pdf](https://github.com/hjzin/ZUC_Cryptanalysis/blob/master/ZUC密码分析实验.pdf) ：实验思路和结果文档
 
 
 
